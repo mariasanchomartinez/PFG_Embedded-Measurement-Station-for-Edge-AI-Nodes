@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",1206,2,100n,
+"D1, D2",LED_D3.0mm,2,LED,
+J3,PinSocket_1x05_P2.54mm_Vertical,1,Conn_01x05_Socket,
+"J4, J5",USB_C_Receptacle_HRO_TYPE-C-31-M-12,2,USB_C_Receptacle_USB2.0_16P,
+"R10, R11",0603,2,5k1,
+"R2, R3, R8",1206,3,10k,
+"R4, R5",0805,2,10,
+"R6, R7",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,1k,
+R9,1206,1,1k,
+R_SHUNT1,R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm,1,10mOhm,
+"TP_+3V3, TP_+IN1, TP_+RSHUNT1, TP_-IN1, TP_-RSHUNT1, TP_ALERT1, TP_GND1, TP_SCL1, TP_SDA1",Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork,9,TestPoint,
+U1,TSSOP-10_3x3mm_P0.5mm,1,INA228,
